@@ -22,7 +22,7 @@ node filename.js
 
 2.what is the data types in js 
 primitive(fixed)	- number string symbol bool undefined null  bigint  
-non pri 		- object(collection of the values like function and array)
+non pri 		- object,arrar , function(collection of the values like function and array)
 
 
 

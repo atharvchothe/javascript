@@ -121,5 +121,10 @@ else{
    document.write("Student is fail");
 }
 
-// activity 
+// activity 7 --print 1 t0 20
+let no ;
+
+for(no= 1 ;no<=20;no++){
+   document.write(no);
+}
 
